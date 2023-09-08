@@ -1,0 +1,33 @@
+/* headings */
+.headings{
+    font-size: 1.5rem;
+    margin-left: 5%;
+}
+
+/* portfolio section */
+#pic{
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10%;
+}
+#pic img{
+    width: 375px;
+    height: 200px;
+}
+#intro h2{
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 5px;
+}
+#intro p{
+    margin-left: 80px;
+    width: 70%;
+}
+.btn2{
+    margin-left: 25%;
+}
+
+/* ABOUT ME */
+.move{
+    margin-left: 25%;
+ }

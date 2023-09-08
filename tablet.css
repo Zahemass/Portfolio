@@ -1,0 +1,39 @@
+/* navbar */
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+/* headings */
+.headings{
+    font-size: 2.5rem;
+    margin-left: 5%;
+}
+/* portfolio section */
+#pic{
+    flex-direction: column;
+    align-items: center;
+}
+#pic img{
+    width: 475px;
+    height: 300px;
+}
+#intro h2{
+    font-size: 2rem;
+    text-align: center;
+    padding: 10px;
+}
+#intro p{
+    margin-left: 80px;
+    width: 70%;
+}
+.btn2{
+    margin-left: 20%;
+}
+/* ABOUT ME */
+#aboutme>#pic>#intro{
+    margin-left: -10%;
+     width: 80%;
+ }
+ .move{
+    margin-left: 15%;
+ }
